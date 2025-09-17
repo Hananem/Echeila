@@ -12,10 +12,7 @@ export default function DownloadSection() {
     visible: { opacity: 1, scale: 1, transition: { duration: 0.8, delay: 0.2 } },
   };
 
-  const buttonVariants: Variants = {
-    hover: { scale: 1.05, transition: { duration: 0.2 } },
-    tap: { scale: 0.95 },
-  };
+ 
 
   return (
    <section id="download" className="py-20 mt-80  mb-20" dir="rtl">

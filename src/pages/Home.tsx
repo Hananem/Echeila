@@ -1,4 +1,3 @@
-import React from 'react'
 import HeroGeometric from '@/components/HeroGeometric'  
 import About from '@/components/About'  
 import Services from '@/components/Services'  
@@ -7,7 +6,7 @@ import HowItWorks from '@/components/HowItWorks'
 
 export default function Home() {
   return (
-    <div>
+    <div >
       <HeroGeometric />   
       <About />   
       <Services />   
