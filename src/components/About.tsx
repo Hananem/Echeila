@@ -221,8 +221,8 @@ export default function AboutSection() {
                         fill="#22c55e40"
                         strokeWidth={2}
                         isAnimationActive={true}
-                        animationBegin={300}
-                        animationDuration={2000}
+                        animationBegin={1000}
+                        animationDuration={4000}
                         animationEasing="ease"
                       />
                     </AreaChart>
