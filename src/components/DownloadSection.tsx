@@ -17,7 +17,7 @@ export default function DownloadSection() {
   return (
    <section id="download" className="py-20 mt-80  mb-20" dir="rtl">
   <div className="max-w-6xl mx-auto px-4">
-    <div className="flex flex-col lg:flex-row items-center justify-center gap-12">
+    <div className="flex flex-col lg:flex-row items-center justify-center ">
       {/* النص */}
       <motion.div
         variants={textVariants}
