@@ -120,7 +120,7 @@ export default function FollowUs() {
     {/* الهاتف */}
     <div className="flex items-center gap-2 text-gray-700">
       <Phone className="w-5 h-5 text-green-600" />
-      <span>+213 665 11 86 77</span>
+      <span>+213 663 81 71 14</span>
     </div>
 
     {/* البريد الإلكتروني */}
